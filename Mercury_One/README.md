@@ -48,4 +48,4 @@ like so:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
-| jonspaceharper | [Mercury One.1 Belt Path](./jonspaceharper/M1.1_belt_path) | CAD of the frame and motion system components for M1.1 (belts, idlers). | :blue_heart: :heart: |
+| jonspaceharper | [EVA 3 for Mercury One.1](./jonspaceharper/EVA3) | Modified EVA 3 toolhead for M1.1 toolhead and carriage. | :heart: |
