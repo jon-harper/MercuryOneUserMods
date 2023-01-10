@@ -19,7 +19,7 @@
 - Cable guide improvements:
     - Rotated guide mount 45 degrees to stay out of the way of endstop.
     - Closer to rear toolhead and takes less X axis space.
-    - Also raised top screw from 25mm to 40mm for additional room.
+    - Raised cable guide 15mm.
 
 
 ### 23/01/07
