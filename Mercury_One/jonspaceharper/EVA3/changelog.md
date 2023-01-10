@@ -20,7 +20,11 @@
     - Rotated guide mount 45 degrees to stay out of the way of endstop.
     - Closer to rear toolhead and takes less X axis space.
     - Raised cable guide 15mm.
-
+    - Rear of cable guide allows for larger zip ties.
+- BLTouch mount:
+    - Move mount points over belt clamp
+    - Design a new BLTouch mount
+    - Uses a simple cutaway support structure
 
 ### 23/01/07
 
