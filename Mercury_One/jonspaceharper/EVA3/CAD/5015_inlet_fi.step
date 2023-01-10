@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ '5015_inlet_fi.step',
-/* time_stamp */ '2023-01-09T07:58:23-06:00',
+/* time_stamp */ '2023-01-10T12:29:34-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -42494,7 +42494,7 @@ SOLID_ANGLE_UNIT()
 #30476=SHAPE_REPRESENTATION('',(#11668),#30441);
 #30477=SHAPE_REPRESENTATION('',(#11783),#30442);
 #30478=PRODUCT_DEFINITION_CONTEXT('part definition',#30501,'design');
-#30479=PRODUCT_DEFINITION('5015_inlet_fi','5015_inlet_fi v15',#30486,#30478);
+#30479=PRODUCT_DEFINITION('5015_inlet_fi','5015_inlet_fi v20',#30486,#30478);
 #30480=PRODUCT_DEFINITION('heat_insert_M3xD4.6xL4.0',
 'heat_insert_M3xD4.6xL4.0',#30487,#30478);
 #30481=PRODUCT_DEFINITION('5015_inlet_fi_1','5015_inlet_fi',#30488,#30478);
@@ -42512,8 +42512,8 @@ SOLID_ANGLE_UNIT()
 #30490=PRODUCT_DEFINITION_FORMATION('',$,#30507);
 #30491=PRODUCT_DEFINITION_FORMATION('',$,#30508);
 #30492=PRODUCT_DEFINITION_FORMATION('',$,#30509);
-#30493=PRODUCT_RELATED_PRODUCT_CATEGORY('5015_inlet_fi v15',
-'5015_inlet_fi v15',(#30503));
+#30493=PRODUCT_RELATED_PRODUCT_CATEGORY('5015_inlet_fi v20',
+'5015_inlet_fi v20',(#30503));
 #30494=PRODUCT_RELATED_PRODUCT_CATEGORY('heat_insert_M3xD4.6xL4.0',
 'heat_insert_M3xD4.6xL4.0',(#30504));
 #30495=PRODUCT_RELATED_PRODUCT_CATEGORY('5015_inlet_fi','5015_inlet_fi',
@@ -42530,7 +42530,7 @@ SOLID_ANGLE_UNIT()
 #30501=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #30502=PRODUCT_CONTEXT('part definition',#30501,'mechanical');
-#30503=PRODUCT('5015_inlet_fi','5015_inlet_fi v15',$,(#30502));
+#30503=PRODUCT('5015_inlet_fi','5015_inlet_fi v20',$,(#30502));
 #30504=PRODUCT('heat_insert_M3xD4.6xL4.0','heat_insert_M3xD4.6xL4.0',$,
 (#30502));
 #30505=PRODUCT('5015_inlet_fi_1','5015_inlet_fi',$,(#30502));
