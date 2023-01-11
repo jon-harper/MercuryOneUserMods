@@ -69,6 +69,10 @@ Both inlets require the same materials:
 | Screw, M3-0.5 x 6mm SHCS  | 1 | |
 | Screw, M3-0.5 x 25mm SHCS | 1 | |
 
+#### Back Plate
+
+**Note**: this piece is eliminated. The fan intake and top plate are modified in its place.
+
 #### Other Required Parts
 
 There are no modified Drive Mounts; the standard ones fit normally. You will still need to choose and print one.
