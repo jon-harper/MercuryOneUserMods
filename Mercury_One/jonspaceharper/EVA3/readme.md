@@ -12,6 +12,7 @@ This mod adapts EVA 3 to mount on Mercury One. It is still in testing.
 | changelog.md  | List of all changes |
 | /CAD          | STEP files for all assemblies |
 | /STL          | Printable files |
+| /img          | Reference images for each assembly |
 
 ## Components
 
