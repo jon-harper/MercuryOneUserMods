@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### 23/01/11
+
+- Tagged all parts in the Fusion model with part numbers to scrape BOM data.
+- Tweaked BLTouch mount to add a little more material.
+- Added a readme with BOM info.
+
 ### 23/01/10
 
 - Started changelog
