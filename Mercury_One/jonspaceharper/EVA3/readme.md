@@ -25,7 +25,7 @@ This mod adapts EVA 3 to mount on Mercury One. It is still in testing.
 | front_universal_fi.stl    | 1 | |
 | belt_grabber.stl          | 2 | |
 | Heat Set Insert, M3x5x4   | 12 | M1/Voron-style inserts |
-| M3 8mm Screw              | 4  | Add two (2) more if using an ADXL |
+| Screw, M3-0.5 x 8mm SHCS  | 4  | Add two (2) more if using an ADXL |
 
 #### Top for MGN12H with Endstop
 
@@ -36,7 +36,7 @@ This part also serves to mount the Cable Guide.
 | top_endstop_mgn12h.stl    | 1 | |
 | cable_guide.stl           | 1 | |
 | Heat Set Insert, M3x5x4   | 6 | M1/Voron-style inserts |
-| M3 8mm Screw              | 8 | |
+| Screw, M3-0.5 x 8mm SHCS  | 8 | |
 | Horizontal Endstop Switch | 1 | The same as EVA 3 uses |
 
 #### Bottom Horns
