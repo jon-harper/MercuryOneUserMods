@@ -7,6 +7,7 @@
 - Tagged all parts in the Fusion model with part numbers to scrape BOM data.
 - Tweaked BLTouch mount to add a little more material.
 - Added a readme with BOM info.
+- Added a chamfer to the top piece insert holes and an overhang for the endstop mount.
 
 ### 23/01/10
 
@@ -28,7 +29,7 @@
     - Raised cable guide 15mm.
     - Rear of cable guide allows for larger zip ties.
 - BLTouch mount:
-    - Move mount points over belt clamp
+    - Moved mount points over belt clamp
     - Design a new BLTouch mount
     - Uses a simple cutaway support structure
 

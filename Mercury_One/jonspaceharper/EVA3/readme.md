@@ -31,6 +31,8 @@ This mod adapts EVA 3 to mount on Mercury One. It is still in testing.
 
 This part also serves to mount the Cable Guide.
 
+Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*, not the top.
+
 | Part | Qty | Note |
 |------|-----|------|
 | top_endstop_mgn12h.stl    | 1 | |
@@ -50,14 +52,14 @@ The Volcano horns have not yet been modified.
 
 #### Part Cooling Inlet
 
-There are two version of this file. One is based on the stock cooling duct; the other is mounted sideways to save Y axis room.
+There are two version of this file. One is based on the stock cooling inlet; the other is mounted sideways (may save Y axis space on some configurations).
 
 Print one (1) of:
 
 - 5015_inlet_fi.stl
 - 5015_sideways_inlet_fit.stl
 
-The materials required for each are listed below; both inlets use the same materials.
+Both inlets require the same materials:
 
 | Part | Qty | Note |
 |------|-----|------|
@@ -82,18 +84,6 @@ Lastly, you will need the following for hotend cooling:
 
 ### Optional
 
-#### Hotend Mount: Dragon BMO / Red Lizard BMO
-
-This is a modification of [this mod](https://www.printables.com/model/200853-eva3-dragon-hotend-mount-insert) to use M3x5x4 inserts.
-
-| Part | Qty | Note |
-|------|-----|------|
-| hotend_bmo_fi.stl         | 1 | |
-| Dragon BMO hotend         | 1 | |
-| Screw, M2.5 x 8mm SHCS    | 4 | Usually comes with the hotend. |
-| Screw, M3-0.5 x 8mm SHCS  | 4 | |
-| Heat Set Insert, M3x5x4   | 4 | M1/Voron-style insert |
-
 #### BLTouch Mount
 
 Currently, only BLTouch is supported as an ABL. The universal front ABL mounting holes were moved to make room for the belts.
@@ -105,3 +95,15 @@ Currently, only BLTouch is supported as an ABL. The universal front ABL mounting
 | Hex Nut, M3           | 2 | |
 | Screw, M3-0.5 x 6mm   | 2 | May substitute 8mm. |
 | Screw, M3-0.5 x 8mm   | 2 | |
+
+#### Hotend Mount: Dragon BMO / Red Lizard BMO
+
+This is a modification of [this mod](https://www.printables.com/model/200853-eva3-dragon-hotend-mount-insert) to use M3x5x4 inserts.
+
+| Part | Qty | Note |
+|------|-----|------|
+| hotend_bmo_fi.stl         | 1 | |
+| Dragon BMO hotend         | 1 | |
+| Screw, M2.5 x 8mm SHCS    | 4 | Usually comes with the hotend. |
+| Screw, M3-0.5 x 8mm SHCS  | 4 | |
+| Heat Set Insert, M3x5x4   | 4 | M1/Voron-style insert |
