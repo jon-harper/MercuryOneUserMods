@@ -65,8 +65,8 @@ Both inlets require the same materials:
 |------|-----|------|
 | Fan, Radial, 50mm x 15mm  | 1 | |
 | Heat Set Insert, M3x5x4   | 1 | M1/Voron-style insert |
-| Screw, M3-0.5 x 40mm SHCS | 4 | |
-| Screw, M3-0.5 x 6mm SHCS  | 1 | |
+| Screw, M3-0.5 x 45mm SHCS | 4 | |
+| Screw, M3-0.5 x 6mm SHCS  | 1 | May substitute 8mm. |
 | Screw, M3-0.5 x 25mm SHCS | 1 | |
 
 #### Back Plate
