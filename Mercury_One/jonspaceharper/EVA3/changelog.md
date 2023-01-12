@@ -2,12 +2,23 @@
 
 ## Changelog
 
+## 23/01/12
+
+- Tweaked post again for cable guide.
+
 ### 23/01/11
 
 - Tagged all parts in the Fusion model with part numbers to scrape BOM data.
 - Tweaked BLTouch mount to add a little more material.
 - Added a readme with BOM info.
 - Added a chamfer to the top piece insert holes and an overhang for the endstop mount.
+- Test fitting went well:
+    - Found & fixed missing BLTouch holes in the front piece.
+    - Made cable guide tower thinner to avoid blocking drive piece.
+    - Rotated cable guide around to face completely backwards.
+- Added CAD files for Volcano duct.
+    - The duct source file has broken geometry that I am unable to fix.
+    - I have made the changes otherwise needed to make the duct compatible.
 
 ### 23/01/10
 
