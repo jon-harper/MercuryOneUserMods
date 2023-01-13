@@ -5,6 +5,8 @@
 ## 23/01/13
 
 - Fit test appears ready for testing on a working Merc.
+- Added cutout in belt grabber for divider between belts.
+- Added a version of the cable guide post with the guide to the side.
 
 ## 23/01/12
 
