@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod adapts EVA 3 to mount on Mercury One. It is still in testing.
+This mod adapts EVA 3 to mount on Mercury One. It has been fit tested on a mockup X axis; fit testing for the belts remains outstanding.
 
 ### Repository Layout
 
@@ -25,13 +25,14 @@ This mod adapts EVA 3 to mount on Mercury One. It is still in testing.
 | front_universal_fi.stl    | 1 | |
 | belt_grabber.stl          | 2 | |
 | Heat Set Insert, M3x5x4   | 12 | M1/Voron-style inserts |
-| Screw, M3-0.5 x 8mm SHCS  | 4  | Add two (2) more if using an ADXL |
+| Screw, M3-0.5 x 6mm SHCS  | 4  | May substitute 8mm |
+| Screw, M3-0.5 x 8mm SHCS  | 2  | Only if using an ADXL |
 
 #### Top for MGN12H with Endstop
 
 This part also serves to mount the Cable Guide.
 
-Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*, not the top.
+Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*, not the top. The added distance requires that drives mount to the top piece with 12mm screws instead of 8mm.
 
 | Part | Qty | Note |
 |------|-----|------|
@@ -43,7 +44,7 @@ Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*,
 
 #### Bottom Horns
 
-The Volcano horns have not yet been modified.
+Note: The Volcano horns have been modified but contain geometry errors that are beyond my ability to fix. The Source file is in the `/CAD` folder.
 
 | Part | Qty | Note |
 |------|-----|------|
@@ -75,7 +76,7 @@ Both inlets require the same materials:
 
 #### Other Required Parts
 
-There are no modified Drive Mounts; the standard ones fit normally. You will still need to choose and print one.
+There are no modified Drive Mounts; the standard ones will fit using 12mm screws to attach to the top piece (the front still uses 8mm).
 
 Any hotend mount will fit the modified universal front. There is one mount modified to accept Mercury One inserts instead of EVA-style (see below).
 

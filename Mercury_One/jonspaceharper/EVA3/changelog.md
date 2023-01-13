@@ -2,9 +2,14 @@
 
 ## Changelog
 
+## 23/01/13
+
+- Fit test appears ready for testing on a working Merc.
+
 ## 23/01/12
 
 - Tweaked post again for cable guide.
+- Spent most of the day fixing a printer.
 
 ### 23/01/11
 
