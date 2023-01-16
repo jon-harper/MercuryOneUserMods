@@ -2,6 +2,11 @@
 
 ## Changelog
 
+## 23/01/16
+
+- Belt fit test is good.
+- Added a bumper for the X axis limit switch.
+
 ## 23/01/13
 
 - Fit test appears ready for testing on a working Merc.
