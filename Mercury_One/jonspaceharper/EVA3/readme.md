@@ -93,6 +93,8 @@ Lastly, you will need the following for hotend cooling:
 
 Currently, only BLTouch is supported as an ABL. The universal front ABL mounting holes were moved to make room for the belts.
 
+Nozzle offset is 12mm on the X axis and 33.5 on the Y.
+
 | Part | Qty | Note |
 |------|-----|------|
 | bl_touch_mount.stl    | 1 | The file has a simple, breakways support. |
