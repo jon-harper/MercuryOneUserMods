@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod adapts EVA 3 to mount on Mercury One. It has been fit tested on a mockup X axis; fit testing for the belts remains outstanding.
+This mod adapts EVA 3 to mount on Mercury One.
 
 ### Repository Layout
 
