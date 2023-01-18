@@ -2,6 +2,13 @@
 
 ## Changelog
 
+## 23/01/18
+
+- `5015_sidways_inlet_fi.stl`: Added some walls for the 5015 fan to sit in and a notch for the bit around the exhaust.
+- Added a Z limit switch mount to raise the limit switch height. Comes with a cover.
+- Added a front intake duct that lets you remove the fan with two screws instead of four.
+- Note: the intake duct is not compatible with 4020 fans (or you lose Y space).
+
 ## 23/01/16
 
 - Belt fit test is good.
