@@ -2,6 +2,11 @@
 
 ## Changelog
 
+## 23/01/19
+
+- Fixed missing screw holes in the alternate top piece.
+- Shortened the front intake duct by 1mm.
+
 ## 23/01/18
 
 - `5015_sidways_inlet_fi.stl`: Added some walls for the 5015 fan to sit in and a notch for the bit around the exhaust.
