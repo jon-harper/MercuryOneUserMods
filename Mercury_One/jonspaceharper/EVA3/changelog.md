@@ -2,10 +2,15 @@
 
 ## Changelog
 
+## 23/01/20
+
+- Strengthened BLTouch bracket.
+
 ## 23/01/19
 
 - Fixed missing screw holes in the alternate top piece.
 - Shortened the front intake duct by 1mm.
+- Updated all outdated STEP files.
 
 ## 23/01/18
 
