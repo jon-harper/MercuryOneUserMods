@@ -4,6 +4,41 @@
 
 This mod adapts EVA 3 to mount on Mercury One.
 
+## Compatibility
+### Linear Rail
+
+MGN12C support is dropped for MGN12H, the carriage type used for Mercury One.
+
+### Hotends
+
+All non-Volcano hotends are compatible. Volcano support is only missing a working duct (the source STEP file has geometry flaws)
+
+### Drive/Extruder
+
+All drive modules are compatible.
+
+### ABL
+
+ABL support is currently limited to BLTouch. Initial work on a Klicky mod for the horn duct is available in `/CAD`.
+
+### Part Fans
+
+Support for part fans includes a 5015 fan in stock or sideways orientation.
+
+### Shrouds and Cooling Fans
+
+All shrouds are compatible. Both 4010 and 4020 fans may be used.
+
+## New Parts
+
+### Z Limit Switch Mount
+
+This allows the bed to reach the hotend and adds additional Z height.
+
+### X Axis Stop Block
+
+This is a bumper for the X axis limit switch, compatible with Mercury One.
+
 ### Repository Layout
 
 | File/Folder   | Description |
@@ -30,7 +65,7 @@ This mod adapts EVA 3 to mount on Mercury One.
 
 #### Top for MGN12H with Endstop
 
-This part also serves to mount the Cable Guide.
+This part also serves to mount the Cable Guide. An alternative version is available that mounts the guide to the side. This leaves room for stepper-mounted breakout boards.
 
 Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*, not the top. The added distance requires that drives mount to the top piece with 12mm screws instead of 8mm.
 
@@ -114,3 +149,16 @@ This is a modification of [this mod](https://www.printables.com/model/200853-eva
 | Screw, M2.5 x 8mm SHCS    | 4 | Usually comes with the hotend. |
 | Screw, M3-0.5 x 8mm SHCS  | 4 | |
 | Heat Set Insert, M3x5x4   | 4 | M1/Voron-style insert |
+
+#### Z Limit Switch Mod
+
+This fixes the height of the limit switch so that the bumper screw works. This is only applicable for Ender 5 Pros. It has not been tested on an Ender 5 Plus.
+
+| Part | Qty | Note |
+|------|-----|------|
+| z_limit_switch_cover.stl  | 1 | |
+| z_limit_switch_mount.stl  | 1 | |
+| Screw, M3-0.5 x 16mm SHCS | 2 | |
+| Screw, M5-0.8 x 8mm SHCS  | 1 | |
+| Tee Nut, Drop In, M5      | 1 | |
+| Heat Set Insert, M3x5x4   | 2 | M1/Voron-style insert |
