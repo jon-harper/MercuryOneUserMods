@@ -77,7 +77,7 @@ Note: The four (4) inserts for the Drive Mount are pressed in from the *bottom*,
 | Screw, M3-0.5 x 8mm SHCS  | 8 | |
 | Horizontal Endstop Switch | 1 | The same as EVA 3 uses |
 
-If using a CANBUS or other stepper-mounted PCB, print `top_endstop_mgn12h_alt` instead. This file uses two (2) fewer inserts.
+If using a CANBUS or other stepper-mounted PCB, print `top_endstop_mgn12h_pcb.stl` instead. This file uses two (2) fewer inserts and does not have a cable guide mount.
 
 ### Bottom Horns
 
