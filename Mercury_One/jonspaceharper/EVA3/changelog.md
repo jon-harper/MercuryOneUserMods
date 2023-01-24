@@ -2,9 +2,21 @@
 
 ## Changelog
 
+## 23/01/24
+
+- `front_universal_pis_fi.stl`: Added FYSETC PIS (portable input shaper) support
+- `pcb36_mount.stl`, `pcb42_mount.stl`: Added two files for, e.g., EBB36 and EBB42 stepper-mounted PCBS.
+- These should support *all* stepper mounted PCBs, not just CANBUS (e.g., BTT Piggyback36).
+- `pcb_shroud.stl`, `pcb_shroud_cat.stl` two shrouds to cover up the PCB wiring added (one is whimsical).
+
+## 23/01/23
+
+- Alternate top piece removes the cable support mount entirely now.
+- Started work on rear PCB mount with integrated cable support instead.
+
 ## 23/01/20
 
-- Strengthened BLTouch bracket.
+- `bltouch_mount.stl`: Strengthened BLTouch bracket.
 
 ## 23/01/19
 
